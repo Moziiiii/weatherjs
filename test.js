@@ -1,0 +1,7 @@
+function test(){
+  if (true){
+    {
+      
+    }
+  }
+}
